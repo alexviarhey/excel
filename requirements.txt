@@ -1,0 +1,9 @@
+Webpack
+    -Babel
+    -Scss
+    -Eslint
+    -Environments:
+        -dev( DevServer, SourceMaps, Eslint, Not Minified JS $ CSS
+        -prod
+        Minified Code
+Git
