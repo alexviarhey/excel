@@ -1,3 +1,10 @@
-import './module'
+import '@/module'
+import './style.scss'
 
-console.log('Working')
+const test = async () => {
+    return await Promise.resolve()
+}
+
+test()
+
+console.log('Working not')
